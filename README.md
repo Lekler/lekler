@@ -1,4 +1,4 @@
-### E ai pessoa! Bem vindo e não repara na bagunça 👋
+### 👋
 
 <div align="left">
   <a href="https://github.com/lekler">
