@@ -1,62 +1,65 @@
 <div align="center">
 
-<!-- TYPING SVG HEADER -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=1000&color=BD93F9&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=%F0%9F%94%90+Post-Quantum+Cryptography+Researcher;%F0%9F%9B%A1%EF%B8%8F+Information+Security+%7C+AI+%7C+Threat+Intel;%F0%9F%8E%93+MSc+Systems+%26+Computing+%40+IME)](https://git.io/typing-svg)
+# 👋 Hi, I'm Alexandre "Lekler" Rodrigues Cordeiro
+
+### Security Research • Data Science • AI • Digital Culture
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2800&pause=900&color=BD93F9&center=true&vCenter=true&width=900&lines=Building+with+AI%2C+data+and+security;Researching+secure+systems+and+emerging+technologies;Writing+about+technology%2C+productivity+and+digital+culture)](https://git.io/typing-svg)
 
 <br>
 
-<!-- HEADER BADGES -->
-[![Blog](https://img.shields.io/badge/Blog-lekler.com.br-BD93F9?style=for-the-badge&logo=ghost&logoColor=white)](https://lekler.com.br)
-[![YouTube](https://img.shields.io/youtube/channel/subscribers/UCz3S1WSkzNvZlS9Zwl2lBQg?style=for-the-badge&logo=youtube&logoColor=white&label=YouTube&color=FF5555)](https://www.youtube.com/@lekler)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-alexandrerod-8BE9FD?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/alexandrerod)
-[![X](https://img.shields.io/badge/@tiulekler-282A36?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/tiulekler)
-[![Instagram](https://img.shields.io/badge/@tiulekler-FF79C6?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/tiulekler)
+[![Website](https://img.shields.io/badge/Website-lekler.com.br-BD93F9?style=for-the-badge&logo=ghost&logoColor=white)](https://lekler.com.br)
+[![Links](https://img.shields.io/badge/Links-links.lekler.com.br-8BE9FD?style=for-the-badge&logo=linktree&logoColor=white)](https://links.lekler.com.br)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-alexandrerod-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/alexandrerod)
+[![YouTube](https://img.shields.io/badge/YouTube-@lekler-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@lekler)
+[![X](https://img.shields.io/badge/X-@tiulekler-282A36?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/tiulekler)
 [![Profile Views](https://komarev.com/ghpvc/?username=lekler&style=for-the-badge&color=6272A4)](https://github.com/Lekler)
 
 </div>
 
 ---
 
-## 🧑‍💻 About Me
+## 🧭 About
 
 ```yaml
-name: Alexandre "Lekler" Rodrigues
-location: Rio de Janeiro, Brazil 🇧🇷
-role: AI Research Intern @ Blip | MSc Student @ IME
-research: Post-Quantum Cryptography (ML-KEM / ML-DSA in TLS 1.3)
-project: "Projeto Quantum 2" — R$43M FINEP-funded research
-background: 6+ years in InfoSec @ Brazilian Federal Institutions (MPF, Itamaraty, ANA)
-neurodivergent: Autistic + ADHD — trying to be less wrong every day
+name: Alexandre "Lekler" Rodrigues Cordeiro
+based_in: Brazil 🇧🇷
+focus: AI, data science, cybersecurity, secure systems and digital products
+academic_path: MSc Systems & Computing @ IME | Economics @ IBMEC
+builder_mode: research, prototypes, content, automation and micro-SaaS
+neurodivergent: autistic + ADHD — trying to be less wrong every day
 ```
 
-<div align="center">
+I work at the intersection of **security**, **data**, **artificial intelligence** and **applied research**.
 
-> *"Um autista com TDAH tentando estar menos errado a cada dia."*
+My public work mixes academic investigation, practical experiments, technical writing and tools built around real problems. I use this GitHub as a lab notebook: some repositories are polished, some are experiments, and some are traces of what I am learning in public.
 
-</div>
+> **Lekler** is my personal brand for technology, data, AI, cybersecurity, productivity and digital culture.
 
 ---
 
-## 🔬 Current Research
+## 🔎 Current Focus
 
 <table>
 <tr>
 <td width="50%">
 
-### 🔐 Post-Quantum Cryptography
-- **ML-KEM** (Kyber) & **ML-DSA** (Dilithium) integration in TLS 1.3
-- Hybrid PQC key exchange analysis
-- Lattice-based cryptographic implementations with **Qiskit**
-- BB84 & E91 quantum protocol simulations
+### 🛡️ Security & Research
+
+- Secure systems and protocol analysis
+- Cybersecurity, threat intelligence and OSINT
+- Privacy-aware tooling and responsible experimentation
+- Academic writing, reproducibility and applied methods
 
 </td>
 <td width="50%">
 
-### 🛡️ Security & Intelligence
-- Threat Intelligence & OSINT
-- TLS handshake performance analysis
-- Harvest-now-decrypt-later threat modeling
-- Side-channel attack vectors in PQC
+### 🤖 AI, Data & Products
+
+- Python for data analysis and automation
+- LLM-assisted workflows and research tooling
+- Micro-SaaS experiments and product validation
+- Content systems, SEO and digital publishing
 
 </td>
 </tr>
@@ -68,88 +71,86 @@ neurodivergent: Autistic + ADHD — trying to be less wrong every day
 
 <div align="center">
 
-#### Languages
+### Languages & Data
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white)
 
-#### Security & Quantum
-![Qiskit](https://img.shields.io/badge/Qiskit-6929C4?style=flat-square&logo=qiskit&logoColor=white)
+### AI, Security & Research
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![Scikit--Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white)
 ![OpenSSL](https://img.shields.io/badge/OpenSSL-721412?style=flat-square&logo=openssl&logoColor=white)
-![Splunk](https://img.shields.io/badge/Splunk-000000?style=flat-square&logo=splunk&logoColor=white)
 
-#### Data & AI
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
-![Scikit Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude_AI-000000?style=flat-square&logo=anthropic&logoColor=white)
+### Tools & Publishing
 
-#### Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 ![Obsidian](https://img.shields.io/badge/Obsidian-7C3AED?style=flat-square&logo=obsidian&logoColor=white)
 ![Ghost](https://img.shields.io/badge/Ghost_CMS-15171A?style=flat-square&logo=ghost&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
 
 </div>
 
 ---
 
-## 📈 GitHub Stats
+## 🚀 Featured Work
+
+| Project | What it is | Stack / Area |
+|---|---|---|
+| 🚩 [**RedFlags.ia**](https://redflags.ia.br) | Informational AI tool that turns exported conversations into a structured report with warning signs, patterns and practical next steps. | AI / NLP / Privacy / Micro-SaaS |
+| 📝 [**LEKLER**](https://lekler.com.br) | Personal blog about technology, data, AI, cybersecurity, productivity and digital culture. | Ghost / SEO / Content Systems |
+| 🔗 [**links.github.io**](https://github.com/Lekler/links.github.io) | Personal link hub and lightweight web presence. | HTML / CSS / Static Web |
+| 🎓 [**IBMEC**](https://github.com/Lekler/IBMEC) | Academic exercises, notebooks and experiments from my undergraduate path. | Python / Jupyter / Data Science |
+
+---
+
+## 📌 What I'm Building / Studying
+
+```text
+research   → secure systems, applied cybersecurity and academic reproducibility
+building   → AI-assisted tools, automations, micro-SaaS and web experiments
+writing    → practical notes on InfoSec, AI, data, productivity and digital life
+learning   → statistics, economics, data science, systems and security engineering
+```
+
+---
+
+## 📈 GitHub Snapshot
 
 <div align="center">
-  <a href="https://github.com/lekler">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lekler&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&border_radius=10&hide_border=true&bg_color=282A36"/>
+  <a href="https://github.com/Lekler">
+    <img height="170" src="https://github-readme-stats.vercel.app/api?username=Lekler&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&border_radius=12&hide_border=true&bg_color=282A36" alt="Lekler GitHub stats"/>
   </a>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lekler&layout=compact&langs_count=8&theme=dracula&border_radius=10&hide_border=true&bg_color=282A36"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lekler&layout=compact&langs_count=8&theme=dracula&border_radius=12&hide_border=true&bg_color=282A36" alt="Most used languages"/>
 </div>
 
+<details>
+<summary><strong>More GitHub visuals</strong></summary>
+
+<br>
+
 <div align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=lekler&theme=dracula&hide_border=true&border_radius=10&background=282A36" alt="GitHub Streak"/>
-  </a>
+  <img src="https://streak-stats.demolab.com?user=Lekler&theme=dracula&hide_border=true&border_radius=12&background=282A36" alt="GitHub streak"/>
+  <br><br>
+  <img src="https://github-profile-trophy.vercel.app/?username=Lekler&theme=dracula&no-frame=true&no-bg=true&column=7&margin-w=10" alt="GitHub trophies"/>
 </div>
+
+</details>
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=lekler&theme=dracula&no-frame=true&no-bg=true&column=7&margin-w=10" alt="GitHub Trophies"/>
-</div>
-
----
-
-## 📊 Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lekler&theme=dracula&hide_border=true&bg_color=282A36&line=BD93F9&point=FF79C6&area=true&area_color=BD93F9" alt="Contribution Graph"/>
-</div>
-
----
-
-## 🚀 Featured Projects
-
-<div align="center">
-
-| Project | Description | Stack |
-|---------|-------------|-------|
-| 🚩 [**RedFlags.ia**](https://redflags.ia.br) | AI-powered toxic relationship pattern detector for WhatsApp | AI / NLP / Micro-SaaS |
-| 📝 [**lekler.com.br**](https://lekler.com.br) | InfoSec & tech blog — 38k monthly visitors | Ghost CMS / SEO |
-| 🔗 [**links.github.io**](https://github.com/Lekler/links.github.io) | Personal link tree | HTML / CSS |
-| 🎓 [**IBMEC**](https://github.com/Lekler/IBMEC) | Academic projects from undergrad | Jupyter / Python |
-
-</div>
-
----
-
-## ✍️ Latest Blog Posts
+## ✍️ Latest Writing
 
 <!-- BLOG-POST-LIST:START -->
 - 🔒 [IA usada para o "Mal" — Golpes Mais Comuns no Brasil em 2025](https://lekler.com.br/ia-para-o-mal/)
@@ -158,30 +159,19 @@ neurodivergent: Autistic + ADHD — trying to be less wrong every day
 - 👻 [Como navegar anonimamente](https://lekler.com.br/como-navegar-anonimamente/)
 <!-- BLOG-POST-LIST:END -->
 
-➡️ [**Mais posts no blog...**](https://lekler.com.br)
+➡️ More at [**lekler.com.br**](https://lekler.com.br)
 
 ---
 
-## 🎯 What I'm Working On
-
-```text
-🔬 Research    → ML-KEM/ML-DSA integration in TLS 1.3 (MSc @ IME)
-🚩 Building    → RedFlags.ia — AI-powered relationship analysis tool
-📖 Writing     → Blog posts on InfoSec, PQC, and productivity
-🧠 Learning    → Quantum computing, advanced cryptanalysis
-🏋️ Athletics   → Leading BRAB4 @ IBMEC
-```
-
----
-
-## 📫 Connect with Me
+## 📫 Contact
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-lekler@proton.me-BD93F9?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:lekler@proton.me)
-[![Blog](https://img.shields.io/badge/Blog-lekler.com.br-FF5555?style=for-the-badge&logo=ghost&logoColor=white)](https://lekler.com.br)
-[![YouTube](https://img.shields.io/badge/YouTube-@lekler-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@lekler)
+[![Website](https://img.shields.io/badge/Website-lekler.com.br-BD93F9?style=for-the-badge&logo=ghost&logoColor=white)](https://lekler.com.br)
+[![Links](https://img.shields.io/badge/Links-links.lekler.com.br-8BE9FD?style=for-the-badge&logo=linktree&logoColor=white)](https://links.lekler.com.br)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-alexandrerod-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/alexandrerod)
+[![YouTube](https://img.shields.io/badge/YouTube-@lekler-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@lekler)
+[![Instagram](https://img.shields.io/badge/Instagram-@tiulekler-FF79C6?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/tiulekler)
 
 </div>
 
@@ -189,18 +179,8 @@ neurodivergent: Autistic + ADHD — trying to be less wrong every day
 
 <div align="center">
 
-### 💡 Random Fact
+### "Menos ruído. Mais método. Construir, medir, aprender."
 
-*Researching how to protect today's secrets from tomorrow's quantum computers.*
-
-<br>
-
-![Snake animation](https://raw.githubusercontent.com/Lekler/Lekler/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
-![Snake animation](https://raw.githubusercontent.com/Lekler/Lekler/output/github-contribution-grid-snake.svg#gh-light-mode-only)
-
-<sub>⚡ The snake animation above requires a GitHub Action — see setup instructions below.</sub>
+<sub>README optimized for clarity, visual balance and lower OSINT exposure.</sub>
 
 </div>
-
-</details>
-
