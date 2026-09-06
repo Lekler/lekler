@@ -108,46 +108,6 @@ brain:     autistic + ADHD, trying to be
 
 <br>
 
-## 🛠️ Tech Stack
-
-<div align="center">
-
-### Languages & Core Tools
-
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,java,ts,js,html,css,bash,latex,markdown&perline=11" alt="Languages"/>
-</a>
-
-### Data, Infra & Publishing
-
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=sklearn,anaconda,postgres,sqlite,docker,linux,git,github,githubactions,vscode,obsidian,cloudflare,wordpress&perline=13" alt="Tools"/>
-</a>
-
-### Security & Research
-
-![OpenSSL](https://img.shields.io/badge/OpenSSL-721412?style=for-the-badge&logo=openssl&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Ghost](https://img.shields.io/badge/Ghost_CMS-15171A?style=for-the-badge&logo=ghost&logoColor=white)
-
-</div>
-
-<br>
-
-## 🚀 Featured Work
-
-| | Project | What it is | Area |
-|:-:|---|---|---|
-| 🚩 | [**RedFlags.ia**](https://redflags.ia.br) | Informational AI tool that turns exported conversations into a structured report with warning signs, patterns and practical next steps. | AI · NLP · Privacy · Micro-SaaS |
-| 📝 | [**LEKLER**](https://lekler.com.br) | Personal blog on technology, security, data, AI, productivity and digital culture. | Ghost · SEO · Content Systems |
-| 🔗 | [**links.github.io**](https://github.com/Lekler/links.github.io) | Personal link hub and lightweight web presence. | HTML · CSS · Static Web |
-| 🎓 | [**IBMEC**](https://github.com/Lekler/IBMEC) | Notebooks, exercises and experiments from my undergraduate path. | Python · Jupyter · Data Science |
-
-<br>
-
 ## 📌 Right Now
 
 ```text
