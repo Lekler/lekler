@@ -1,10 +1,11 @@
+<!-- Header banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:282A36,45:6272A4,100:BD93F9&text=Lekler&fontColor=F8F8F2&fontSize=64&fontAlignY=38&desc=Security%20%E2%80%A2%20Cryptography%20%E2%80%A2%20Data%20%E2%80%A2%20AI&descAlignY=58&descSize=20&animation=fadeIn" alt="Lekler banner" width="100%"/>
+
 <div align="center">
 
-# 👋 Hi, I'm Alexandre "Lekler" Rodrigues Cordeiro
+# Hi, I'm Alexandre "Lekler" Rodrigues
 
-### Security Research • Data Science • AI • Digital Culture
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2800&pause=900&color=BD93F9&center=true&vCenter=true&width=900&lines=Building+with+AI%2C+data+and+security;Researching+secure+systems+and+emerging+technologies;Writing+about+technology%2C+productivity+and+digital+culture)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2800&pause=900&color=BD93F9&center=true&vCenter=true&width=820&lines=Researching+secure+systems+and+post-quantum+cryptography;Building+with+AI%2C+data+and+security;Writing+about+technology%2C+method+and+digital+culture)](https://git.io/typing-svg)
 
 <br>
 
@@ -13,124 +14,156 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-alexandrerod-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/alexandrerod)
 [![YouTube](https://img.shields.io/badge/YouTube-@lekler-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@lekler)
 [![X](https://img.shields.io/badge/X-@tiulekler-282A36?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/tiulekler)
-[![Profile Views](https://komarev.com/ghpvc/?username=lekler&style=for-the-badge&color=6272A4)](https://github.com/Lekler)
+
+<sub>
+
+![Profile views](https://komarev.com/ghpvc/?username=lekler&style=flat-square&color=6272A4&label=visitors)
+
+</sub>
 
 </div>
 
----
+<br>
 
 ## 🧭 About
 
-```yaml
-name: Alexandre "Lekler" Rodrigues Cordeiro
-based_in: Brazil 🇧🇷
-focus: AI, data science, cybersecurity, secure systems and digital products
-academic_path: MSc Systems & Computing @ IME | Economics @ IBMEC
-builder_mode: research, prototypes, content, automation and micro-SaaS
-neurodivergent: autistic + ADHD — trying to be less wrong every day
-```
-
-I work at the intersection of **security**, **data**, **artificial intelligence** and **applied research**.
-
-My public work mixes academic investigation, practical experiments, technical writing and tools built around real problems. I use this GitHub as a lab notebook: some repositories are polished, some are experiments, and some are traces of what I am learning in public.
-
-> **Lekler** is my personal brand for technology, data, AI, cybersecurity, productivity and digital culture.
-
----
-
-## 🔎 Current Focus
-
 <table>
 <tr>
-<td width="50%">
+<td width="55%" valign="top">
 
-### 🛡️ Security & Research
+I work at the intersection of **security**, **cryptography**, **data** and **artificial intelligence**, with one foot in academic research and the other in building things people actually use.
 
-- Secure systems and protocol analysis
-- Cybersecurity, threat intelligence and OSINT
-- Privacy-aware tooling and responsible experimentation
-- Academic writing, reproducibility and applied methods
+This GitHub is my lab notebook. Some repositories are polished, some are experiments, and some are just traces of what I am learning in public.
+
+> **Lekler** is my personal brand for technology, security, data, AI, productivity and digital culture.
 
 </td>
-<td width="50%">
+<td width="45%" valign="top">
 
-### 🤖 AI, Data & Products
-
-- Python for data analysis and automation
-- LLM-assisted workflows and research tooling
-- Micro-SaaS experiments and product validation
-- Content systems, SEO and digital publishing
+```yaml
+name:      Alexandre "Lekler" Rodrigues
+based_in:  Brazil 🇧🇷
+now:       MSc in Systems & Computing
+before:    Economics · Data Science & AI
+focus:     applied cryptography, secure protocols,
+           threat intelligence, data & AI
+mode:      research → prototype → write → repeat
+brain:     autistic + ADHD, trying to be
+           less wrong every day
+```
 
 </td>
 </tr>
 </table>
 
----
+<br>
+
+## 🔬 Research Interests
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🔐 Cryptography & Protocols
+
+- Post-quantum cryptography and the NIST PQC standards
+- Hybrid vs. pure PQC key exchange in TLS 1.3
+- Performance, key-size and side-channel trade-offs
+- Protocol analysis and secure-by-design systems
+
+</td>
+<td width="50%" valign="top">
+
+### 🛡️ Security & Intelligence
+
+- Threat intelligence, OSINT and adversary tradecraft
+- Harvest-now-decrypt-later risk and migration planning
+- Privacy-aware tooling and responsible experimentation
+- Reproducible research and academic writing
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🤖 AI & Data
+
+- Python for analysis, automation and experiments
+- LLM-assisted workflows and research tooling
+- Machine learning applied to security problems
+- Statistics, economics and decision-making under uncertainty
+
+</td>
+<td width="50%" valign="top">
+
+### ⚛️ Quantum Computing
+
+- Fundamentals and what they mean for today's crypto
+- Quantum key distribution as a complement, not a substitute
+- Separating vendor claims from peer-reviewed results
+
+</td>
+</tr>
+</table>
+
+<br>
 
 ## 🛠️ Tech Stack
 
 <div align="center">
 
-### Languages & Data
+### Languages & Core Tools
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
-![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white)
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,java,ts,js,html,css,bash,latex,markdown&perline=11" alt="Languages"/>
+</a>
 
-### AI, Security & Research
+### Data, Infra & Publishing
 
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
-![Scikit--Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white)
-![OpenSSL](https://img.shields.io/badge/OpenSSL-721412?style=flat-square&logo=openssl&logoColor=white)
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=sklearn,anaconda,postgres,sqlite,docker,linux,git,github,githubactions,vscode,obsidian,cloudflare,wordpress&perline=13" alt="Tools"/>
+</a>
 
-### Tools & Publishing
+### Security & Research
 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-![Obsidian](https://img.shields.io/badge/Obsidian-7C3AED?style=flat-square&logo=obsidian&logoColor=white)
-![Ghost](https://img.shields.io/badge/Ghost_CMS-15171A?style=flat-square&logo=ghost&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
+![OpenSSL](https://img.shields.io/badge/OpenSSL-721412?style=for-the-badge&logo=openssl&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Ghost](https://img.shields.io/badge/Ghost_CMS-15171A?style=for-the-badge&logo=ghost&logoColor=white)
 
 </div>
 
----
+<br>
 
 ## 🚀 Featured Work
 
-| Project | What it is | Stack / Area |
-|---|---|---|
-| 🚩 [**RedFlags.ia**](https://redflags.ia.br) | Informational AI tool that turns exported conversations into a structured report with warning signs, patterns and practical next steps. | AI / NLP / Privacy / Micro-SaaS |
-| 📝 [**LEKLER**](https://lekler.com.br) | Personal blog about technology, data, AI, cybersecurity, productivity and digital culture. | Ghost / SEO / Content Systems |
-| 🔗 [**links.github.io**](https://github.com/Lekler/links.github.io) | Personal link hub and lightweight web presence. | HTML / CSS / Static Web |
-| 🎓 [**IBMEC**](https://github.com/Lekler/IBMEC) | Academic exercises, notebooks and experiments from my undergraduate path. | Python / Jupyter / Data Science |
+| | Project | What it is | Area |
+|:-:|---|---|---|
+| 🚩 | [**RedFlags.ia**](https://redflags.ia.br) | Informational AI tool that turns exported conversations into a structured report with warning signs, patterns and practical next steps. | AI · NLP · Privacy · Micro-SaaS |
+| 📝 | [**LEKLER**](https://lekler.com.br) | Personal blog on technology, security, data, AI, productivity and digital culture. | Ghost · SEO · Content Systems |
+| 🔗 | [**links.github.io**](https://github.com/Lekler/links.github.io) | Personal link hub and lightweight web presence. | HTML · CSS · Static Web |
+| 🎓 | [**IBMEC**](https://github.com/Lekler/IBMEC) | Notebooks, exercises and experiments from my undergraduate path. | Python · Jupyter · Data Science |
 
----
+<br>
 
-## 📌 What I'm Building / Studying
+## 📌 Right Now
 
 ```text
-research   → secure systems, applied cybersecurity and academic reproducibility
+research   → post-quantum cryptography, secure protocols and reproducible methods
 building   → AI-assisted tools, automations, micro-SaaS and web experiments
 writing    → practical notes on InfoSec, AI, data, productivity and digital life
-learning   → statistics, economics, data science, systems and security engineering
+learning   → quantum computing, statistics, systems and security engineering
 ```
 
----
+<br>
 
 ## 📈 GitHub Snapshot
 
 <div align="center">
   <a href="https://github.com/Lekler">
-    <img height="170" src="https://github-readme-stats.vercel.app/api?username=Lekler&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&border_radius=12&hide_border=true&bg_color=282A36" alt="Lekler GitHub stats"/>
+    <img height="170" src="https://github-readme-stats.vercel.app/api?username=Lekler&show_icons=true&theme=dracula&include_all_commits=true&border_radius=12&hide_border=true&bg_color=282A36" alt="GitHub stats"/>
   </a>
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lekler&layout=compact&langs_count=8&theme=dracula&border_radius=12&hide_border=true&bg_color=282A36" alt="Most used languages"/>
 </div>
@@ -148,7 +181,7 @@ learning   → statistics, economics, data science, systems and security enginee
 
 </details>
 
----
+<br>
 
 ## ✍️ Latest Writing
 
@@ -161,7 +194,37 @@ learning   → statistics, economics, data science, systems and security enginee
 
 ➡️ More at [**lekler.com.br**](https://lekler.com.br)
 
----
+<br>
+
+## 🧠 How I Work
+
+<table>
+<tr>
+<td width="33%" valign="top" align="center">
+
+**Method over noise**
+
+Write it down, measure it, then decide. Notes and reproducibility beat memory and intuition.
+
+</td>
+<td width="33%" valign="top" align="center">
+
+**Literal and explicit**
+
+Assumptions stated. Gaps admitted. "Established" and "speculation" kept clearly apart.
+
+</td>
+<td width="33%" valign="top" align="center">
+
+**Learn in public**
+
+Experiments, drafts and half-built tools are part of the process, not something to hide.
+
+</td>
+</tr>
+</table>
+
+<br>
 
 ## 📫 Contact
 
@@ -175,12 +238,14 @@ learning   → statistics, economics, data science, systems and security enginee
 
 </div>
 
----
+<br>
 
 <div align="center">
 
 ### "Menos ruído. Mais método. Construir, medir, aprender."
 
-<sub>README optimized for clarity, visual balance and lower OSINT exposure.</sub>
+<sub>Lab notebook, not a résumé. Built for clarity and low OSINT exposure.</sub>
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:BD93F9,55:6272A4,100:282A36&section=footer" alt="" width="100%"/>

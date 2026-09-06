@@ -1,0 +1,25 @@
+name: Latest blog posts
+
+on:
+  schedule:
+    # Every day at 03:00 UTC
+    - cron: "0 3 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-readme:
+    name: Update README with latest posts
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          feed_list: "https://lekler.com.br/rss/"
+          max_post_count: 5
+          template: "- 📝 [$title]($url)$newline"
+          comment_tag_name: "BLOG-POST-LIST"
+          commit_message: "docs: refresh latest blog posts"
