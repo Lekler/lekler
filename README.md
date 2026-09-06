@@ -43,8 +43,8 @@ This GitHub is my lab notebook. Some repositories are polished, some are experim
 ```yaml
 name:      Alexandre "Lekler" Rodrigues
 based_in:  Brazil 🇧🇷
-now:       MSc in Systems & Computing
-before:    Economics · Data Science & AI
+now:       MSc in Systems & Computing @ IME
+before:    Economics · Data Science & AI @ IBMEC
 focus:     applied cryptography, secure protocols,
            threat intelligence, data & AI
 mode:      research → prototype → write → repeat
