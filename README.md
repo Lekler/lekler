@@ -145,11 +145,11 @@ learning   → quantum computing, statistics, systems and security engineering
 
 ## ✍️ Latest Writing
 
-<!-- BLOG-POST-LIST:START -->
-- 🔒 [IA usada para o "Mal" — Golpes Mais Comuns no Brasil em 2025](https://lekler.com.br/ia-para-o-mal/)
-- 📝 [How to Take Smart Notes – Sönke Ahrens](https://lekler.com.br/how-to-take-smart-notes/)
-- 🌐 [How to Remove Paywalls from Various Websites](https://lekler.com.br/remove-paywall/)
-- 👻 [Como navegar anonimamente](https://lekler.com.br/como-navegar-anonimamente/)
+<!-- BLOG-POST-LIST:START -->- 📝 [Backup 3-2-1: como proteger seus arquivos de falhas e ransomware](https://lekler.com.br/backup-3-2-1-proteger-arquivos/)
+- 📝 [Como verificar se um arquivo baixado é seguro com SHA-256](https://lekler.com.br/verificar-arquivo-baixado-sha-256/)
+- 📝 [Passkeys: como trocar senhas sem perder suas contas](https://lekler.com.br/passkeys-como-usar-sem-perder-contas/)
+- 📝 [RedFlags.IA: Como a IA Identifica Padrões Tóxicos nas Suas Conversas](https://lekler.com.br/redflags/)
+- 📝 [IA usada para o &quot;Mal&quot;](https://lekler.com.br/ia-para-o-mal/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ More at [**lekler.com.br**](https://lekler.com.br)
