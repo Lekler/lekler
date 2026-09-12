@@ -145,7 +145,8 @@ learning   → quantum computing, statistics, systems and security engineering
 
 ## ✍️ Latest Writing
 
-<!-- BLOG-POST-LIST:START -->- 📝 [Backup 3-2-1: como proteger seus arquivos de falhas e ransomware](https://lekler.com.br/backup-3-2-1-proteger-arquivos/)
+<!-- BLOG-POST-LIST:START -->
+- 📝 [Backup 3-2-1: como proteger seus arquivos de falhas e ransomware](https://lekler.com.br/backup-3-2-1-proteger-arquivos/)
 - 📝 [Como verificar se um arquivo baixado é seguro com SHA-256](https://lekler.com.br/verificar-arquivo-baixado-sha-256/)
 - 📝 [Passkeys: como trocar senhas sem perder suas contas](https://lekler.com.br/passkeys-como-usar-sem-perder-contas/)
 - 📝 [RedFlags.IA: Como a IA Identifica Padrões Tóxicos nas Suas Conversas](https://lekler.com.br/redflags/)
