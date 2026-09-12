@@ -200,12 +200,4 @@ Experiments, drafts and half-built tools are part of the process, not something 
 
 <br>
 
-<div align="center">
-
-### "Menos ruído. Mais método. Construir, medir, aprender."
-
-<sub>Lab notebook, not a résumé. Built for clarity and low OSINT exposure.</sub>
-
-</div>
-
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:BD93F9,55:6272A4,100:282A36&section=footer" alt="" width="100%"/>
